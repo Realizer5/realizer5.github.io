@@ -1,2 +1,1 @@
-console.log('hi')
-console.log("terimaa ki")
+console.log('hi node js')
